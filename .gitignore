@@ -1,0 +1,10 @@
+note.txt
+backup/*
+
+collisionalgorithm/*.class
+collisiondata/*.class
+main/*.class
+math/*.class
+math/**/*.class
+objects/*.class
+sort/*.class
