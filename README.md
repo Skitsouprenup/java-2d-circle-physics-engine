@@ -6,7 +6,7 @@ polished. I created this project for fun and experimentation only.**
 I'm planning to rewrite this physics engine in C or Rust in the future.
 Before that, I need a refresher on maths and physics.
 
-I have a quick demo of this project in this [link](https://youtu.be/92ttC2Bv0sg)  
+I have a quick demo of this project in this [link](https://youtu.be/6uq1piIi1lQ)  
 Old demo in this [link](https://www.youtube.com/watch?v=lH_pP1xZg58)
 
 # Technologies Used
